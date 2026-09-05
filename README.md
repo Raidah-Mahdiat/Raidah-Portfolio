@@ -26,12 +26,6 @@ The page currently includes:
 
 The project links currently use placeholder `#` destinations for live demos and source code until those URLs are added.
 
-## Local preview
-From the project root, run a simple static server:
-
-```powershell
-python -m http.server 8000
-```
 
 Then open [http://localhost:8000](http://localhost:8000) in a browser. The **View Resume** link opens `Raidah Mahdiat.pdf.pdf` in a new tab.
 
