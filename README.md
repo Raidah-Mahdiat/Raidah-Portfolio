@@ -16,16 +16,11 @@ The page currently includes:
 .
 ├── index.html
 ├── style.css
-├── Raidah Mahdiat.pdf.pdf
-└── static/
-	└── img/
-		├── Amazon Clone using HTML, CSS.png
-		├── Etsy Clone Using HTML, CSS.png
-		└── Helping Hand - A Free Online Mental Healthy Resource Hub using HTML, CSS, and Javascript.png
+├── Raidah Mahdiat.pdf
+├── amazon-clone.png
+├── etsy-clone.png
+└── helping-hand.png
 ```
 
-The project links currently use placeholder `#` destinations for live demos and source code until those URLs are added.
-
-
-Then open [http://localhost:8000](http://localhost:8000) in a browser. The **View Resume** link opens `Raidah Mahdiat.pdf.pdf` in a new tab.
+Then open [http://localhost:8000](http://localhost:8000) in a browser. The **View Resume** link opens `Raidah Mahdiat.pdf` in a new tab.
 
